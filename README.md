@@ -3,6 +3,6 @@
 # 
 # 
 ### Website:
-### https//m93.pl/
+### https://m93.pl/
 
 M93.pl (c) 2025
